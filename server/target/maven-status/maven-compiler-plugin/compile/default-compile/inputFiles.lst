@@ -1,0 +1,17 @@
+/Users/emre/Dev/koc_finans/CreditScoreApp/server/src/main/java/com/creditapp/config/SwaggerConfig.java
+/Users/emre/Dev/koc_finans/CreditScoreApp/server/src/main/java/com/creditapp/service/CreditApprovalServiceImpl.java
+/Users/emre/Dev/koc_finans/CreditScoreApp/server/src/main/java/com/creditapp/dto/ServiceResponse.java
+/Users/emre/Dev/koc_finans/CreditScoreApp/server/src/main/java/com/creditapp/service/CreditApprovalService.java
+/Users/emre/Dev/koc_finans/CreditScoreApp/server/src/main/java/com/creditapp/dto/CreditApprovalType.java
+/Users/emre/Dev/koc_finans/CreditScoreApp/server/src/main/java/com/creditapp/resource/CreditQueryResource.java
+/Users/emre/Dev/koc_finans/CreditScoreApp/server/src/main/java/com/creditapp/entity/BaseEntity.java
+/Users/emre/Dev/koc_finans/CreditScoreApp/server/src/main/java/com/creditapp/dto/ServiceRequest.java
+/Users/emre/Dev/koc_finans/CreditScoreApp/server/src/main/java/com/creditapp/entity/UserCreditInfo.java
+/Users/emre/Dev/koc_finans/CreditScoreApp/server/src/main/java/com/creditapp/CreditAppServerApplication.java
+/Users/emre/Dev/koc_finans/CreditScoreApp/server/src/main/java/com/creditapp/repository/UserRepository.java
+/Users/emre/Dev/koc_finans/CreditScoreApp/server/src/main/java/com/creditapp/service/CreditServiceImpl.java
+/Users/emre/Dev/koc_finans/CreditScoreApp/server/src/main/java/com/creditapp/repository/UserCreditInfoRepository.java
+/Users/emre/Dev/koc_finans/CreditScoreApp/server/src/main/java/com/creditapp/service/CreditService.java
+/Users/emre/Dev/koc_finans/CreditScoreApp/server/src/main/java/com/creditapp/constant/CreditConstants.java
+/Users/emre/Dev/koc_finans/CreditScoreApp/server/src/main/java/com/creditapp/service/SMSHelper.java
+/Users/emre/Dev/koc_finans/CreditScoreApp/server/src/main/java/com/creditapp/entity/User.java

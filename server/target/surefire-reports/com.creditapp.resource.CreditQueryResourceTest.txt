@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: com.creditapp.resource.CreditQueryResourceTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0 s <<< FAILURE! - in com.creditapp.resource.CreditQueryResourceTest
+initializationError(com.creditapp.resource.CreditQueryResourceTest)  Time elapsed: 0 s  <<< ERROR!
+java.lang.Exception: No runnable methods
+
