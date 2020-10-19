@@ -12,5 +12,5 @@ docker-compose up
 
 Swagger Url
 <pre>
-http://localhost:8081/swagger-ui.htm
+http://localhost:8081/swagger-ui.html
 </pre>
