@@ -1,0 +1,20 @@
+version: '2'
+
+services: 
+  
+  spring-docker-service:
+    image: spring-docker-service
+    build:
+     context: ../server
+     dockerfile: ./Dockerfile
+  
+    ports:
+      - 8081:8081
+    
+  angular-docker-service:
+    image: angular-docker-service
+    build:
+      context: ../web
+      dockerfile: ./Dockerfile
+    ports:
+      - 4200:4200
