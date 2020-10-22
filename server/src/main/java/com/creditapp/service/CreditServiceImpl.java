@@ -19,11 +19,13 @@ public class CreditServiceImpl implements CreditService {
 	
 	private UserRepository userRepository;
 	private  CreditApprovalService creditApprovalService;
+	private SMSservice smsService;
 	
 	//Injection
-	public CreditServiceImpl( UserRepository  userRepository,CreditApprovalService creditApprovalService ) {
+	public CreditServiceImpl( UserRepository  userRepository,CreditApprovalService creditApprovalService,SMSservice smsService ) {
 		this.userRepository=userRepository;
 		this.creditApprovalService=creditApprovalService;	
+		this.smsService=smsService;
 	}
 	
 	
@@ -56,6 +58,8 @@ public class CreditServiceImpl implements CreditService {
 		userRepository.save(user);
 		
 		//sms gönder
+		smsService.sendSms("sms sended");
+		
 		return serviceResponse;
 
 	}
